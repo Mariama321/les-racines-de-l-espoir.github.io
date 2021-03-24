@@ -1,0 +1,115 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: lucida calligraphy;
+}
+nav{
+	width: 100%;
+	height: 123px;
+	background-color:#0D3380;
+}
+
+nav ul{
+	float: right;
+	margin-right: 50px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	line-height: 80px;
+	transition: 0.8s all;
+}
+nav ul li:hover{
+        background-color:white;
+}
+nav ul li a{
+	text-decoration: none;
+	color:black;
+	padding: 30px;
+}
+.title{
+	text-align: center;
+	font-size: 50px;
+	background-color: #4457FA;
+padding: 50px;
+color: white;
+}
+.section2{
+	display: flex;
+	background-color: crimson;
+}
+.title1{
+	text-align: center;
+	justify-content: justify;
+	color: white;
+	background-color: crimson;
+}
+.p1{
+	text-align: center;
+	justify-content: justify;
+	color: white;
+	background-color: crimson;
+}
+
+
+.section1{
+    display: block;
+}
+
+
+.d1{
+    width: 375px;
+    height: 500px;
+    margin: 50px auto;
+    box-shadow: 0px 15px 10px 10px #FA6159;
+    background-repeat: no-repeat;
+    background-size: contain ;
+    animation: fondu 15s ease-in-out infinite both;
+
+}
+.conteneur{
+    max-width: 576px;
+    margin: 50px auto;
+}
+
+.d1:hover{
+    animation-play-state: paused;
+}
+@keyframes fondu{
+    0%{background-image: url("file.jpg");}
+    33.33%{background-image: url("file1.jpg");}
+    66.67%{background-image: url("file2.jpg");}
+    50%{background-image: url("file3.jpg");}
+
+}
+.title2{
+	text-align: center;
+	font-size: 35px;
+	background-color: #F5D490;
+padding: 30px;
+color: #F569BB;
+}
+.p0{
+	color: white;
+	background-color: #1F336B;
+	display: flex;
+	
+	font-size: 15px;
+	padding-top: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

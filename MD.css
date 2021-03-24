@@ -1,0 +1,130 @@
+*{
+	padding: 0;
+	margin: 0;
+	font-family:lucida Calligraphy;
+	text-decoration: none;
+	list-style: none;
+}
+.nav1{
+	background-color: crimson;
+	width: 100%;
+	position: fixed;
+	padding: 15px 0px;
+}
+.nav1 .mariam{
+	width: 1300px;
+	display: flex;
+	justify-content: space-between;
+	margin: auto;
+}
+.md1 a span{
+	color: #000;
+}
+.diack{
+	margin-top: 6px;
+}
+.diack li{
+	display: inline-block;
+}
+.diack li a{
+	color:white;
+	font-size: 20px;
+	font-weight: 200;
+	margin-left: 25px;
+	transition: color 2s;
+}
+.diack li a:hover{
+	color:#000;
+}
+.sous{
+	display: none;
+	position: absolute;
+}
+.diack li:hover .sous{
+	display: block;
+
+}
+.sous li{
+	width: 100%;
+	text-align: center;
+	border:2px solid blue;
+	background-color: crimson;
+
+}
+.nd{
+	width: 100%;
+	display: flex;
+}
+.child-left{
+	width: 25%;
+	height: 500px;
+	background-color: pink;
+	margin: left:10px;
+
+}
+
+.child-right{
+	width: 25%;
+	height: 500px;
+	background-color: pink;
+	margin-right: 10px;
+}
+.child-center{
+	width: 50%;
+	height:480px;
+	background-color: crimson;
+	margin: auto 10px;
+	display: flex;
+	padding: 10px;
+}
+.info1{
+	background-color: black;
+	height: 100%;
+	width: 50%;
+
+}
+.info2{
+	width: 50%;
+	height: 100%;
+	background-color: white;
+	margin-left:10px;
+}
+.info21{
+	height: 30.5%;
+	margin: 10px;
+	background-color: crimson;
+}
+.Ad{
+	box-shadow:5px 5px 7px white;
+	border-radius: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

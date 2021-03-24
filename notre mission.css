@@ -1,0 +1,87 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: lucida calligraphy;
+}
+nav{
+	width: 100%;
+	height: 123px;
+	background-color:#0D3380;
+	position: fixed;
+}
+
+nav ul{
+	float: right;
+	margin-right: 50px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	line-height: 80px;
+	transition: 0.8s all;
+}
+nav ul li:hover{
+        background-color:white;
+}
+nav ul li a{
+	text-decoration: none;
+	color:black;
+	padding: 30px;
+}
+.title{
+	text-align: center;
+	font-size: 50px;
+	background-color: #4457FA;
+padding: 70px;
+color: white;
+}
+.p1{
+	text-align: center;
+	justify-content: justify;
+	
+}
+.u1{
+	color: red;
+}
+.i1{
+	background-color: pink;
+
+}
+.citation{
+	background-color: pink;
+	text-align: center;
+	font-size: 30px;
+
+}
+.diack{
+	color:#727475;
+	font-size: 40px;
+}
+.mariam{
+	font-size: 15px;
+	background-color: #EFC4F5;
+}
+.citation1{
+	text-align: center;
+	font-size: 30px;
+	background-color: #134BBD;
+	}
+.mdiack{
+	text-decoration: none;
+	font-size: 15px;
+	border-radius: 20px;
+	
+}
+.mdiack:hover{
+		
+		background-color: white;
+		
+	}
+	.p0{
+	color: white;
+	background-color: #1F336B;
+	display: flex;
+	
+	font-size: 15px;
+	padding-top: top;
+}

@@ -1,0 +1,203 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-family: lucida calligraphy;
+}
+nav{
+	width: 100%;
+	height: 80px;
+	background-color:#0D3380;
+}
+nav ul{
+	float: right;
+	margin-right: 50px;
+}
+nav ul li{
+	list-style-type: none;
+	display: inline-block;
+	line-height: 80px;
+	transition: 0.8s all;
+}
+nav ul li:hover{
+        background-color:white;
+}
+nav ul li a{
+	text-decoration: none;
+	color:black;
+	padding: 30px;
+
+}
+.re1{
+	font-size: xx-large;
+	text-align: center;
+	color:white;
+	background-color: #0D3380;
+}
+.title{
+	text-align: center;
+	font-size: 50px;
+	background-color: indigo;
+padding: 70px;
+color: white;
+}
+.nd{
+	width: 100%;
+	display: flex;
+}
+.child-left{
+	width: 25%;
+	height: 500px;
+	margin: left:10px;
+
+
+}
+
+.child-right{
+	width: 25%;
+	height: 500px;
+	margin-right: 10px;
+	
+}
+.child-center{
+	width: 50%;
+	height:500px;
+	background-image: url('Aidant_Aide_Peau_Noire.jpg');
+	background-size: 113%;
+	padding: 10px;
+	background-repeat: no-repeat;
+	
+
+}
+.p0{
+	font-size: 14px;
+	justify-content: justify;
+}
+.p1{
+	
+	font-size: 14px;
+	justify-content: justify;
+}
+.p2{
+	font-size: 14px;
+	justify-content: justify;
+}
+.a1{
+	text-decoration: none;
+	color: white;
+	font-size: 13px;
+	text-align: center;
+	}
+
+.a1:hover{
+background-color:blue;
+}
+.aan{
+	width: 100%;
+	display: flex;
+}
+.child-left1{
+	width: 25%;
+	height: 500px;
+	margin: left:10px;
+
+
+}
+
+.child-right3{
+	width: 25%;
+	height: 550px;
+	margin-right: 10px;
+	
+}
+.child-center2{
+	width: 50%;
+	height:480px;
+	background-image: url('5945897698_a988d73bac_b.jpg');
+	background-size: 103%;
+	padding: 10px;
+	background-repeat: no-repeat;
+	
+}
+.ak{
+	width: 100%;
+	display: flex;
+}
+.child-left9{
+	width: 25%;
+	height: 500px;
+	margin: left:10px;
+
+
+}
+
+.child-right11{
+	width: 25%;
+	height: 500px;
+	margin-right: 10px;
+
+	
+}
+.child-center10{
+	width: 60%;
+	height:380px;
+	background-image: url('FB_IMG_1616293416750.jpg');
+	background-size: 103%;
+	padding: 10px;
+	background-repeat: no-repeat;
+	
+}
+.p3{
+	font-size: 14px;
+	justify-content: justify;
+}
+.p4{
+	
+	font-size: 14px;
+	justify-content: justify;
+}
+.p5{
+	font-size: 14px;
+	justify-content: justify;
+}
+.p9{
+	color: white;
+	background-color: #1F336B;
+	display: flex;
+	
+	font-size: 15px;
+	padding-top: top;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

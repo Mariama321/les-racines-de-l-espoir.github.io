@@ -1,0 +1,18 @@
+fieldset{
+	color: gray;
+	border: dashed;
+	border-width: 5px;
+}
+
+table{
+	color:gray;
+	background-color: pink;
+	
+}
+pre{
+	color:gray;
+	background-color:pink;
+	border: solid;
+	border-radius: 10px;
+}
+
